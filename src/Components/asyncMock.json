@@ -1,0 +1,38 @@
+[
+    {
+    "id": "1",
+    "name": "Banco Ciudad",
+    "saldo": 1000,
+    "category": "BancosMonedaExtrajera",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Logo_Banco_Ciudad.svg/330px-Logo_Banco_Ciudad.svg.png?20191129145632",
+    "movimientos": 25,
+    "description": "Caja de Ahorros en u$s Banco Ciudad"
+    },
+    {
+    "id": "2",
+    "name": "BBVA",
+    "saldo": 800,
+    "category": "Bancos",
+    "img": "https://signply.com/wp-content/uploads/2024/06/bbva0_square.webp",
+    "movimientos": 235,
+    "description": "Caja de Ahorros en $ BBVA"
+    },
+    {
+    "id": "3",
+    "name": "Banco Nación",
+    "saldo": 1200,
+    "category": "Bancos",
+    "img": "https://seeklogo.com/images/B/bna-logo-27DC199F9A-seeklogo.com.png",
+    "movimientos": 5,
+    "description": "Cuenta Corriente en $ Banco de la Nación Argentina"
+    },
+    {
+    "id": "4",
+    "name": "Mercadopago",
+    "saldo": 1370,
+    "category": "BilleteraVirutal",
+    "img": "https://i0.wp.com/culturaabierta.com.ar/wp-content/uploads/2020/07/mercado-libre-mercado-pago-percepciones.png?resize=300%2C123&ssl=1",
+    "movimientos": 5,
+    "description": "Dinero en cuenta Mercadopago"
+    }
+]
